@@ -1,0 +1,1 @@
+# discord-swear-jar-v1
